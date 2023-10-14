@@ -1,4 +1,4 @@
-<h1 style="color:#fff;">Hi, I'm Shawn! <br/>Web Developer & Graphic Designer</h1>
+<h1>Hi, I'm Shawn! <br/>Web Developer & Graphic Designer</h1>
 
 Web Developer & Graphic Designer
 
