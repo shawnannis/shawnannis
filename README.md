@@ -1,5 +1,5 @@
-<h1>Hi, I'm Shawn!</h1>
-<h2>Web Developer & Graphic Designer</h2>
+<h1>Hi, I'm Shawn!</br>Web Developer & Graphic Designer</h1>
+
 
 
 <!--
